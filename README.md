@@ -1,3 +1,2 @@
 # stepik_auto_testing_course
-Howework for auto-testing course \n
-Simple text
+Howework for auto-testing course (and some simple text over there)
